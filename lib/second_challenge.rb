@@ -15,6 +15,7 @@ def second_challenge
       array << ele
     end
   end
+  // groceries.values.flatten
   
   return array
 end
